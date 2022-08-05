@@ -4,8 +4,8 @@ layout: homepage
 keywords:
 
 # Hero section
-title: Project name
-description: Project description
+title: XDC Developer Community Portal
+description: XDC Network Documentation Curated and Maintained by a Global Developer Community
 buttons:
     - content: Button
       url: '#'
